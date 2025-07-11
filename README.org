@@ -1,0 +1,9 @@
+* cl-cffi-pango
+
+cl-cffi-pango is a Lisp binding to the Pango library.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/crategus/cl-cffi-pango.git |
+| commit  | bd56f70                                           |
+| systems | cl-cffi-pango                                     |
+|---------+---------------------------------------------------|
